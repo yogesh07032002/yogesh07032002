@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Ingole</h1>
-<h3 align="center">A passionate Full Stack Developer from India and Currently Working In ArrayLogic Softwares Pvt. Ltd.</h3>
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 - 🔭 I’m currently working on **Full Satck Projects**
 
